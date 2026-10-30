@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm 정도현 (Dohyun Jung) 👋</h2>
+<h2 align="center">Hi, I'm 정도현 (Dohyun Jeong) 👋</h2>
 <p align="center">
-  Computer Engineering @ Hankuk University of Foreign Studies (HUFS)<br/>
-  Deep Learning · Optimization · Software Engineering
+  Industrial & Management Engineering · Computer Engineering (Double Major) @ HUFS<br/>
+  Aspiring Quant Trader · Deep Learning · Optimization
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 ---
 
 ### 🧑‍💻 About me
-- 🎓 한국외국어대학교 컴퓨터공학부 재학 중
+- 🎓 한국외국어대학교 산업경영공학과 (본전공) · 컴퓨터공학 (이중전공)
+- 📈 목표: **퀀트 트레이더** — 수학적 모델링과 데이터로 시장을 이해하고 전략을 만드는 사람
 - 🧠 요즘 공부하는 것: **딥러닝 (PyTorch, d2l.ai)** — 선형 회귀부터 Softmax 회귀, MLP까지 직접 구현
-- 📐 관심 분야: 딥러닝, 최적화(MIP · 휴리스틱), 강화학습
-- 🌱 목표: 모델을 "쓸 줄 아는" 수준을 넘어 "밑바닥부터 이해하고 구현하는" 엔지니어
+- 📐 관심 분야: 퀀트 금융, 최적화(MIP · 휴리스틱), 강화학습, 딥러닝
 
 ### 🛠 Tech Stack
 <p>
